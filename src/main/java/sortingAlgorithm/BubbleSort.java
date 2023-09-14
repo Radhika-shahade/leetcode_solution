@@ -1,7 +1,6 @@
 package sortingAlgorithm;
 
 public class BubbleSort {
-
     public static int[] sortingOfArray(int arr[])
     {
         for(int i= arr.length-1;i>=1;i--)
